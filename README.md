@@ -1,5 +1,7 @@
 ## File Uploader
 
+![Screenshot (418)](https://github.com/user-attachments/assets/bd2f87a9-c017-40e6-a41f-8ae43ee943c6)
+
 This is a file uploader built with `shadnc/ui`, and `react-dropzone`. It is bootstrapped with `create-t3-app`.
 
 ## Tech Stack
